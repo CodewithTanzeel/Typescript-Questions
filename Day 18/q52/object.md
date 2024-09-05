@@ -1,0 +1,2 @@
+## Question 52
+Make a Smartphone Object: Create a simple way to keep track of a smartphones details. Include its brand, model, and other key features like how much storage it has, the size of its screen, and how long its battery lasts.
