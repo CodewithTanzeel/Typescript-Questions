@@ -1,4 +1,4 @@
-let person: string = " \t \n  \t Marjan  \t \n \t"; //whitespaces
+let person: string = " \t \n  \t Tanzeel Ahmad \t \n \t"; //whitespaces
 // \t => tabular or horizontal space
 // \n => newline
 
