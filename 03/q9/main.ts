@@ -1,3 +1,3 @@
-const favoriteNum : number = 7;
+const favoriteNum : number = 0;
 
 console.log(`My favorite count: ${favoriteNum}`);
