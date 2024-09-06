@@ -1,5 +1,5 @@
 // QUESTION #7
-console.log(6+2) //Addition
-console.log(12-4) //Subtraction
-console.log(4*2) //Multiplication
-console.log(72 / 9) //Division
+console.log(6+76) //Addition
+console.log(112-4) //Subtraction
+console.log(87*2) //Multiplication
+console.log(49 / 9) //Division
