@@ -1,7 +1,8 @@
-"use strict";
 // QUESTION #3:
-let person = "marjan";
-console.log(person.toUpperCase()); //MARJAN
-console.log(person.toLowerCase()); //marjan
-const titleCase = person[0].toUpperCase() + 'arjan';
-console.log(titleCase); //Marjan
+// Name Cases: Store a person’s name in a variable, and then
+// print that person’s name in lowercase, uppercase, and titlecase.
+var person = "Edwards Kenway";
+console.log(person.toUpperCase()); //Edwards Kenway
+console.log(person.toLowerCase()); //Edwards Kenway
+var titleCase = person[0].toUpperCase() + "dwards Kenway";
+console.log(titleCase); //Edwards Kenway
