@@ -1,5 +1,4 @@
-"use strict";
 // QUESTION #5:
-let famous_person = "Elon Musk";
-let message = "Take Risk Now. Do something bold. You won't regret it.";
-console.log(`'${famous_person} once said, "${message}"'`);
+var famous_person = "Jeff Dean";
+var message = "Most learning curves are not curves, they are lines that get steeper over time. The more you learn, the faster you learn.";
+console.log("'".concat(famous_person, " once said, \"").concat(message, "\"'"));
