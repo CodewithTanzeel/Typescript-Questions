@@ -1,11 +1,12 @@
-"use strict";
-let guests = ['Yahya', "Haris", 'Shaheen', "Shahid"];
-let unableToAttend = "Shaheen";
-console.log(`${unableToAttend} can't make it to dinner.`);
+//QUESTION #15:
+// Guest List
+var guests = ["Atiqa", "Arham", "Ovais", "Imtisaal"];
+var unableToAttend = "Ovais";
+console.log("".concat(unableToAttend, " can't make it to dinner."));
 // Replace the guest
-let newGuest = "Fatimah ";
+var newGuest = "Drfaustus";
 guests[guests.indexOf(unableToAttend)] = newGuest;
 // New invitations
-guests.forEach(guest => {
-    console.log(`Dear ${guest}, would you like to join me for dinner?`);
+guests.forEach(function (guest) {
+    console.log("Dear ".concat(guest, ", would you like to join me for dinner?"));
 });
