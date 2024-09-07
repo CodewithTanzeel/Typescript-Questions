@@ -1,10 +1,10 @@
-var guests = ["Ali", "Ashir", "zehra"];
+var guests = ["Ali", "Ashir", "rida"];
 //0      1         2
 // Unfortunately I found a big table for inviting more guests
 // Invite at the beginning
 var add1 = guests.unshift("Zehra");
 // Inviting at the middle
-var add2 = guests.splice(guests.length / 2, 0, "Zubi");
+var add2 = guests.splice(guests.length / 3, 0, "Zubi");
 // Inviting at the end
 var add3 = guests.push("Saad");
 guests.forEach(function (guest) {

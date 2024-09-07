@@ -1,4 +1,4 @@
-let guests: string[] = ["Ali", "Ashir", "zehra"];
+let guests: string[] = ["Ali", "Ashir", "rida"];
                         //0      1         2
 // Unfortunately I found a big table for inviting more guests
 
