@@ -7,7 +7,7 @@ let unableToAttend = "Ovais";
 console.log(`${unableToAttend} can't make it to dinner.`);
 
 // Replace the guest
-let newGuest = "Fatimah";
+let newGuest = "Drfaustus";
 guests[guests.indexOf(unableToAttend)] = newGuest;
 
 // New invitations
