@@ -1,5 +1,5 @@
 // QUESTION #13:
-let transports: string[] = ['Tesla Car', 'Yahama Motorcycle','Ferrari Car'];
+let transports: string[] = ['Pagani', 'Bently','mercsdes W140','Maybach 62'];
 
 transports.forEach(transport => {
     console.log(`I would like to own a ${transport}.`);
