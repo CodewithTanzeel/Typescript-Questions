@@ -1,9 +1,17 @@
-var guests = ["Yahya", "Haris", "Zubaida", "Fatimah", "Shaheen", "Shahid"];
+var guests = [
+    "Arsh",
+    "Taha",
+    "Abdullah",
+    "Rayyan",
+    "Imtisaal",
+    "Laiba",
+];
 // Removing 3 guests from the end of the list
 var removedGuest1 = guests.pop();
 guests.pop();
 guests.pop();
 // Removing 2 guests from the beginning of the list
+guests.shift();
 guests.shift();
 guests.shift();
 // Inviting only 2 guests
