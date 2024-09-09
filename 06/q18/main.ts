@@ -4,5 +4,8 @@ let guests: string[] = [
   "Leonardo da Vinci",
   "Isaac Newton",
   "Charles Darwin",
+  "Max Plank",
+  "Heisen Berg",
 ];
+
 console.log(`I have invited ${guests.length} people to dinner.`);
