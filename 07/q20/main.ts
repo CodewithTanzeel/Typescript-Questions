@@ -1,2 +1,10 @@
-let languages: string[] = ['Urdu','Arabic','English','japanese','Farsi/Persian'];
-console.log('languages I like the most:',languages)
+let languages: string[] = [
+  "Urdu",
+  "Arabic",
+  "English",
+  "japanese",
+  "Farsi/Persian",
+  "German",
+  "Dutch",
+];
+console.log("languages I like the most:", languages);
