@@ -1,8 +1,8 @@
 const car = {
   name: "Mercedes-Benz",
   model: "CLS65",
-  year: 2017,
-  color: "black",
+  year: 2015,
+  color: "Pearl-white",
 };
 
 console.log(
