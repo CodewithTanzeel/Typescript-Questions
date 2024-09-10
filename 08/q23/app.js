@@ -1,5 +1,4 @@
-"use strict";
-let car = 'subaru';
+var car = 'subaru';
 // Example 1:
 console.log("Is car == 'subaru'? I predict True.");
 console.log(car == 'subaru'); // True
