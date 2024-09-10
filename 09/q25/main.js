@@ -1,9 +1,8 @@
-"use strict";
 // QUESTION #25:
 // The below code will be compile because the condition id true
-let alien_color = "green";
+var alien_color = "green";
 if (alien_color === "green") {
-    console.log("You got 5 stars!!!");
+    console.log("You got 5 stars!");
 }
 // The below code will not be executed because the condition is false
 alien_color = "red";
