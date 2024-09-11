@@ -8,3 +8,6 @@ else{
     console.log("Welcome", users);
 }
 // Removing all usernames ensures the message "We need to find some users!" is printed.
+
+
+

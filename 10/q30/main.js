@@ -4,6 +4,6 @@ usernames.forEach(function (username) {
         console.log("Hello admin, would you like to see a some report?");
     }
     else {
-        console.log("Hello ".concat(username, ", thank you for visiting here."));
+        console.log("Hello ".concat(username, ", thanks for visiting ."));
     }
 });
