@@ -10,5 +10,7 @@ function createObjectWithDynamicKey(key: string, value: string) {
   // Using the flexible list setup for a user's preference
   let userPreference = createObjectWithDynamicKey("theme", "dark");
   
-  // Showing the user's choice
+  
   console.log(userPreference);
+
+
