@@ -1,7 +1,7 @@
-let studentsGrade: number[] = [80, 48, 34, 90, 76];
+let studentsGrade: number[] = [80, 48, 43, 90, 76];
 
 let averageGrade = studentsGrade.reduce((acc, grades) => {
-    return acc + grades / studentsGrade.length;
-}, 0)
+  return acc + grades / studentsGrade.length;
+}, 0);
 
-console.log(averageGrade)
+console.log(averageGrade);
