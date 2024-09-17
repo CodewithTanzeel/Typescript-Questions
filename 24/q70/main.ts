@@ -1,12 +1,9 @@
-
 function printNumbersWithLet() {
-    for (let i = 1; i <= 5; i++) {
-      
-      console.log(i); 
-    }
-    // We use let when we know that the value of the variable may change over time 
-  }  
-  printNumbersWithLet();
-  
-  
-                
+  for (let i = 1; i <= 5; i++) {
+    console.log(i);
+  }
+}
+printNumbersWithLet();
+
+
+//We are using let beacause the original value mai change overtime 
