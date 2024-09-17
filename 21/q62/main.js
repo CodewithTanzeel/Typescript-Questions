@@ -1,6 +1,6 @@
 var studentData = {
-    name: "Marjan Ahmed",
+    name: "Tanzeel Ahmad",
     age: 15,
-    courses: ['DevOps', 'App Development', 'Cyber Security']
+    courses: ["DevOps", " Soft-Development", "Cyber Security"],
 };
 console.log(studentData);
