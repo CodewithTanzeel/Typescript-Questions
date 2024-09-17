@@ -16,5 +16,5 @@ let rectangle: Shape = {
     width: 6,
 }
 
-console.log(circle)
-console.log(rectangle)
+console.log(circle)//[print]
+console.log(rectangle) //[print]
