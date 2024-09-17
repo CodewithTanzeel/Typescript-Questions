@@ -3,9 +3,9 @@ let studentData: {
   age: number;
   courses: string[];
 } = {
-  name: "Tanzeel Ahmad",
+  name: "TanzeelAhmad",
   age: 15,
-  courses: ["DevOps", " Soft-Development", "Cyber Security"],
+  courses: ["DevOps", "Soft-Development", "Cyber Security"],
 };
 
 console.log(studentData);
