@@ -3,9 +3,9 @@
  ************/
 
 /**
- * In this example, the `any` type is used to indicate that a variable can hold a value of any type. 
- * This disables TypeScript's type checking for that variable, allowing it to be reassigned 
- * to different types without raising errors. The `myVariable` is first assigned a number 
+ * In this example, the `any` type is used to indicate that a variable can hold a value of any type.
+ * This disables TypeScript's type checking for that variable, allowing it to be reassigned
+ * to different types without raising errors. The `myVariable` is first assigned a number
  * and later reassigned a string, demonstrating the flexibility of the `any` type.
  */
 
