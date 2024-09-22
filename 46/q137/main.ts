@@ -1,6 +1,10 @@
+// Attempt to execute code that may throw an error
 try {
+  // Throw a new error with a specific message
   throw new Error("Something went wrong"); 
 } 
+// Catch the error if it occurs
 catch (error) {
-  console.log(error.message); // '.message' don't throw an array
+  // Log the error message to the console
+  console.log(error.message); // Output: Something went wrong
 }
