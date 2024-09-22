@@ -6,7 +6,7 @@
  *                   1. error: an Error object or null if no error occurred.
  *                   2. data: optional string that contains the fetched data.
  */
-function fetchData(
+function fetchData (
   callback: (error: Error | null, data?: string) => void
 ): void {
   // Simulate an error case by creating an Error object
