@@ -1,5 +1,12 @@
+/**
+ * Importing two specific utility functions, utilOne and utilTwo, 
+ * from the 'utils.ts' module.
+ * We can use multiple named exports from a single module.
+ */
 import { utilOne, utilTwo } from "./utils.ts";
-// we can use multiple modules from one file (specific function or variable)
 
+/**
+ * Importing the default export from 'calculator.ts'.
+ * A default export allows us to import a single item from a module.
+ */
 import Calculator from "./calculator.ts";
-// we can only use one default export (whole program)
