@@ -8,4 +8,4 @@ let guests: string[] = [
   "Heisen Berg",
 ];
 
-console.log(`I have invited ${guests.length} people to dinner.`);
+console.log(`Ihaveinvited ${guests.length} people to dinner.`);
